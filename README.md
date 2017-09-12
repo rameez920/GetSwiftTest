@@ -13,7 +13,7 @@ Code test for GetSwift job application
   localhost:3000/deliveries
 ```
 
-## Assesment
+## Assessment
 
  To create my solution I used Node.js and Express to create a webserver 
 that hosts an API endpoint where the client can recieve data about the 
@@ -23,7 +23,7 @@ appropriate package. After a successful API call the client then recives a
 JSON response with the approproate data. 
  
  In a production environment the envision my solutution being deployed onto a cloud
- hosting service such as AWS or heroku as either it's own API or part of a larger one.
+ hosting service such as AWS or Heroku as either it's own API or part of a larger one.
  Clients can then recieve data on deliveries by using a mobile app or a desktop web app
  which consumes this API. 
  
